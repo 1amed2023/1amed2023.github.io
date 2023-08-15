@@ -9792,6 +9792,34 @@ a {
   text-align: center;
   color: #2e481a;
 }
+.cid-tMZnvy28oD {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #fff0b0;
+}
+.cid-tMZnvy28oD .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tMZnvy28oD .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tMZnvy28oD .mbr-section-title,
+.cid-tMZnvy28oD .mbr-text,
+.cid-tMZnvy28oD .mbr-section-btn {
+  text-align: center;
+}
+.cid-tMZnvy28oD .video-wrapper {
+  margin: auto;
+}
+.cid-tMZnvy28oD .video-wrapper iframe {
+  width: 100%;
+}
 .cid-sFGDg6hy8z {
   padding-top: 5rem;
   padding-bottom: 5rem;
